@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coleg\\source\\repos\\Calculadora_MStest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCA8775-42CE-4FE1-9CB4-5F552E68631F}|Calculadora_MSTest\\Calculadora_MSTest.csproj|c:\\users\\coleg\\source\\repos\\calculadora_mstest\\calculadora_mstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCA8775-42CE-4FE1-9CB4-5F552E68631F}|Calculadora_MSTest\\Calculadora_MSTest.csproj|solutionrelative:calculadora_mstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55EC666-E653-4C2A-A508-8C3BED05B84C}|TestCalculadora\\TestCalculadora.csproj|c:\\users\\coleg\\source\\repos\\calculadora_mstest\\testcalculadora\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55EC666-E653-4C2A-A508-8C3BED05B84C}|TestCalculadora\\TestCalculadora.csproj|solutionrelative:testcalculadora\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\source\\repos\\Calculadora_MStest\\TestCalculadora\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestCalculadora\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\coleg\\source\\repos\\Calculadora_MStest\\TestCalculadora\\MSTestSettings.cs",
+              "RelativeToolTip": "TestCalculadora\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:16:31.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\source\\repos\\Calculadora_MStest\\Calculadora_MStest\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora_MStest\\Program.cs",
+              "ToolTip": "C:\\Users\\coleg\\source\\repos\\Calculadora_MStest\\Calculadora_MStest\\Program.cs",
+              "RelativeToolTip": "Calculadora_MStest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:03:16.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

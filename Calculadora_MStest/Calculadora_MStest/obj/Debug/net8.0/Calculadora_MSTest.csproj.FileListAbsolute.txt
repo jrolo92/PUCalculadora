@@ -1,0 +1,14 @@
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.AssemblyInfoInputs.cache
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.AssemblyInfo.cs
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.csproj.CoreCompileInputs.cache
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\bin\Debug\net8.0\Calculadora_MSTest.exe
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\bin\Debug\net8.0\Calculadora_MSTest.deps.json
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\bin\Debug\net8.0\Calculadora_MSTest.runtimeconfig.json
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\bin\Debug\net8.0\Calculadora_MSTest.dll
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\bin\Debug\net8.0\Calculadora_MSTest.pdb
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.dll
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\refint\Calculadora_MSTest.dll
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.pdb
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\Calculadora_MSTest.genruntimeconfig.cache
+C:\Users\coleg\source\repos\Calculadora_MStest\Calculadora_MSTest\obj\Debug\net8.0\ref\Calculadora_MSTest.dll

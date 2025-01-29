@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\coleg\\source\\repos\\Calculadora_XUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20CB86A-2AEA-4192-A97D-F6A61B3ABA20}|TestCalculadora_xUnit\\TestCalculadora_xUnit.csproj|c:\\users\\coleg\\source\\repos\\calculadora_xunit\\testcalculadora_xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20CB86A-2AEA-4192-A97D-F6A61B3ABA20}|TestCalculadora_xUnit\\TestCalculadora_xUnit.csproj|solutionrelative:testcalculadora_xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EEB5C9-C7C4-4C6E-A976-1B9DB0EEE38C}|Calculadora_XUnit\\Calculadora_XUnit.csproj|c:\\users\\coleg\\source\\repos\\calculadora_xunit\\calculadora_xunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EEB5C9-C7C4-4C6E-A976-1B9DB0EEE38C}|Calculadora_XUnit\\Calculadora_XUnit.csproj|solutionrelative:calculadora_xunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\source\\repos\\Calculadora_XUnit\\TestCalculadora_xUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestCalculadora_xUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\coleg\\source\\repos\\Calculadora_XUnit\\TestCalculadora_xUnit\\UnitTest1.cs",
+              "RelativeToolTip": "TestCalculadora_xUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:48:30.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\source\\repos\\Calculadora_XUnit\\Calculadora_XUnit\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora_XUnit\\Program.cs",
+              "ToolTip": "C:\\Users\\coleg\\source\\repos\\Calculadora_XUnit\\Calculadora_XUnit\\Program.cs",
+              "RelativeToolTip": "Calculadora_XUnit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:47:12.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\net8.0\Calculadora_NUnit.exe
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\net8.0\Calculadora_NUnit.deps.json
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\net8.0\Calculadora_NUnit.runtimeconfig.json
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\net8.0\Calculadora_NUnit.dll
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\bin\Debug\net8.0\Calculadora_NUnit.pdb
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.AssemblyInfoInputs.cache
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.AssemblyInfo.cs
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.csproj.CoreCompileInputs.cache
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.dll
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\refint\Calculadora_NUnit.dll
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.pdb
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\Calculadora_NUnit.genruntimeconfig.cache
+C:\Users\coleg\source\repos\Calculadora_NUnit\Calculadora_NUnit\obj\Debug\net8.0\ref\Calculadora_NUnit.dll

@@ -1,0 +1,14 @@
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\bin\Debug\net8.0\Calculadora_XUnit.exe
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\bin\Debug\net8.0\Calculadora_XUnit.deps.json
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\bin\Debug\net8.0\Calculadora_XUnit.runtimeconfig.json
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\bin\Debug\net8.0\Calculadora_XUnit.dll
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\bin\Debug\net8.0\Calculadora_XUnit.pdb
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.AssemblyInfoInputs.cache
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.AssemblyInfo.cs
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.csproj.CoreCompileInputs.cache
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.dll
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\refint\Calculadora_XUnit.dll
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.pdb
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\Calculadora_XUnit.genruntimeconfig.cache
+C:\Users\coleg\source\repos\Calculadora_XUnit\Calculadora_XUnit\obj\Debug\net8.0\ref\Calculadora_XUnit.dll
